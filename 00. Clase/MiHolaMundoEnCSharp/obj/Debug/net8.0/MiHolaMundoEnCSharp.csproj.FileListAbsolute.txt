@@ -1,0 +1,14 @@
+C:\Users\vmgb74\Desktop\C#58425\MiHolaMundoEnCSharp\bin\Debug\net8.0\MiHolaMundoEnCSharp.exe
+C:\Users\vmgb74\Desktop\C#58425\MiHolaMundoEnCSharp\bin\Debug\net8.0\MiHolaMundoEnCSharp.deps.json
+C:\Users\vmgb74\Desktop\C#58425\MiHolaMundoEnCSharp\bin\Debug\net8.0\MiHolaMundoEnCSharp.runtimeconfig.json
+C:\Users\vmgb74\Desktop\C#58425\MiHolaMundoEnCSharp\bin\Debug\net8.0\MiHolaMundoEnCSharp.dll
+C:\Users\vmgb74\Desktop\C#58425\MiHolaMundoEnCSharp\bin\Debug\net8.0\MiHolaMundoEnCSharp.pdb
+C:\Users\vmgb74\Desktop\C#58425\MiHolaMundoEnCSharp\obj\Debug\net8.0\MiHolaMundoEnCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vmgb74\Desktop\C#58425\MiHolaMundoEnCSharp\obj\Debug\net8.0\MiHolaMundoEnCSharp.AssemblyInfoInputs.cache
+C:\Users\vmgb74\Desktop\C#58425\MiHolaMundoEnCSharp\obj\Debug\net8.0\MiHolaMundoEnCSharp.AssemblyInfo.cs
+C:\Users\vmgb74\Desktop\C#58425\MiHolaMundoEnCSharp\obj\Debug\net8.0\MiHolaMundoEnCSharp.csproj.CoreCompileInputs.cache
+C:\Users\vmgb74\Desktop\C#58425\MiHolaMundoEnCSharp\obj\Debug\net8.0\MiHolaMundoEnCSharp.dll
+C:\Users\vmgb74\Desktop\C#58425\MiHolaMundoEnCSharp\obj\Debug\net8.0\refint\MiHolaMundoEnCSharp.dll
+C:\Users\vmgb74\Desktop\C#58425\MiHolaMundoEnCSharp\obj\Debug\net8.0\MiHolaMundoEnCSharp.pdb
+C:\Users\vmgb74\Desktop\C#58425\MiHolaMundoEnCSharp\obj\Debug\net8.0\MiHolaMundoEnCSharp.genruntimeconfig.cache
+C:\Users\vmgb74\Desktop\C#58425\MiHolaMundoEnCSharp\obj\Debug\net8.0\ref\MiHolaMundoEnCSharp.dll

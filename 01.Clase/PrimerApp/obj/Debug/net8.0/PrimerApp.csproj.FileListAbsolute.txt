@@ -1,0 +1,14 @@
+C:\Users\vmgb74\Desktop\C#58425\01.Clase\PrimerApp\bin\Debug\net8.0\PrimerApp.exe
+C:\Users\vmgb74\Desktop\C#58425\01.Clase\PrimerApp\bin\Debug\net8.0\PrimerApp.deps.json
+C:\Users\vmgb74\Desktop\C#58425\01.Clase\PrimerApp\bin\Debug\net8.0\PrimerApp.runtimeconfig.json
+C:\Users\vmgb74\Desktop\C#58425\01.Clase\PrimerApp\bin\Debug\net8.0\PrimerApp.dll
+C:\Users\vmgb74\Desktop\C#58425\01.Clase\PrimerApp\bin\Debug\net8.0\PrimerApp.pdb
+C:\Users\vmgb74\Desktop\C#58425\01.Clase\PrimerApp\obj\Debug\net8.0\PrimerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vmgb74\Desktop\C#58425\01.Clase\PrimerApp\obj\Debug\net8.0\PrimerApp.AssemblyInfoInputs.cache
+C:\Users\vmgb74\Desktop\C#58425\01.Clase\PrimerApp\obj\Debug\net8.0\PrimerApp.AssemblyInfo.cs
+C:\Users\vmgb74\Desktop\C#58425\01.Clase\PrimerApp\obj\Debug\net8.0\PrimerApp.csproj.CoreCompileInputs.cache
+C:\Users\vmgb74\Desktop\C#58425\01.Clase\PrimerApp\obj\Debug\net8.0\PrimerApp.dll
+C:\Users\vmgb74\Desktop\C#58425\01.Clase\PrimerApp\obj\Debug\net8.0\refint\PrimerApp.dll
+C:\Users\vmgb74\Desktop\C#58425\01.Clase\PrimerApp\obj\Debug\net8.0\PrimerApp.pdb
+C:\Users\vmgb74\Desktop\C#58425\01.Clase\PrimerApp\obj\Debug\net8.0\PrimerApp.genruntimeconfig.cache
+C:\Users\vmgb74\Desktop\C#58425\01.Clase\PrimerApp\obj\Debug\net8.0\ref\PrimerApp.dll
